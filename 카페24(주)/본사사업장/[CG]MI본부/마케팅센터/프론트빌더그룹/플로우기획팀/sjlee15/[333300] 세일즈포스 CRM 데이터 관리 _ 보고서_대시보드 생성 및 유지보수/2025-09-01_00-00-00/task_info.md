@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\프론트빌더그룹\플로우기획팀 / sjlee15 / [333300] 세일즈포스 CRM 데이터 관리 _ 보고서_대시보드 생성 및 유지보수 / 2025-09-01_00-00-00
+
+### WIKI
+- ["https://docs.google.com/spreadsheets/d/1DZ2xnRAZjVnDjpIo5GolEl_Wf0JJTarsVwWYanbs94M/edit?gid=1957058811#gid=1957058811"]
+

@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MIH그룹\CD팀 / hsgo / [320580] 정기 미팅 운영 _ 미팅 일정 등록 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-027-web.hanpda.com/workflow/09ScqrWR1ecIdwBB"]
+
+### WIKI
+- ["https://wiki.simplexi.com/x/hM3Lp"]
+

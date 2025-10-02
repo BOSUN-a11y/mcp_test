@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\프론트빌더그룹\플로우기획팀 / sjlee15 / [284474] 전사풀오토 마케팅 _ 커뮤니티 바이럴 자동화 기획 _ 키워드 모니터링 자동화 시스템 제작_Meta-Auto / 2025-08-01_00-00-00
+
+### BPMN
+- ["https://wiki.simplexi.com/pages/viewpage.action?pageId=2777852137"]
+

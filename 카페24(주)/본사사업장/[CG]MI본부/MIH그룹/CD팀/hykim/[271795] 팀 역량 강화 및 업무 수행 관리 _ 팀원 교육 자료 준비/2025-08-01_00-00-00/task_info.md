@@ -1,0 +1,13 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MIH그룹\CD팀 / hykim / [271795] 팀 역량 강화 및 업무 수행 관리 _ 팀원 교육 자료 준비 / 2025-08-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-027-web.hanpda.com/workflow/1CxcMg1dj5xw1OcQ"]
+
+### JIRA
+- ["https://jira.simplexi.com/secure/Dashboard.jspa?selectPageId=175520"]
+
+### WIKI
+- ["https://wiki.simplexi.com/x/nDXspQ"]
+

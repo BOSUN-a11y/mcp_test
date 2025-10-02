@@ -1,0 +1,12 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\Y쇼핑센터팀\매치메이킹 / hochoi / [322758] 유튜브 쇼핑 GMV 달성 관리 _ KPI_매출 현황 알림 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-060-web.hanpda.com/workflow/Q9c6ZKrDhV2bKdlg"
+- "https://n8n-mi-045-web.hanpda.com/workflow/ump0c9cOs4mMq0Wt"
+- "https://n8n-mi-045-web.hanpda.com/workflow/5jK9IJ1yddzMYnGX"]
+
+### WIKI
+- ["https://docs.google.com/spreadsheets/d/1_Y_xjC_DJoZemJyirPRtos2N4-b5EOAKa-7HT5HcSeM/edit?gid=0#gid=0"]
+

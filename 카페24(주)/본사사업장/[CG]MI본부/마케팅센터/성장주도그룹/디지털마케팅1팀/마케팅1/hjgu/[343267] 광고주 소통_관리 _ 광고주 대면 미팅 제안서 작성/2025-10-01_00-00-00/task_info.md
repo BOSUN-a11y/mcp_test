@@ -1,0 +1,11 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장주도그룹\디지털마케팅1팀\마케팅1 / hjgu / [343267] 광고주 소통_관리 _ 광고주 대면 미팅 제안서 작성 / 2025-10-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-018-web.hanpda.com/workflow/qQ8SLQsAVjKkaDs2"]
+
+### WIKI
+- ["https://www.genspark.ai/agents?id=0574972c-bf3c-4ce3-a48c-277486a6f87a"
+- "https://n8n-mi-018-web.hanpda.com/workflow/qQ8SLQsAVjKkaDs2"]
+

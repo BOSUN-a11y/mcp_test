@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MIH그룹\밸류업팀 / sylee03 / [282892] 창업센터 손익 장표 작성 _ 루커스튜디오 필터 변경 및 백데이터 반영 여부 확인 / 2025-08-04_00-00-00
+
+### BPMN
+- ["https://n8n-mi-016-web.hanpda.com/workflow/omIPUmu85CienTKv"]
+
+### WIKI
+- ["https://docs.google.com/spreadsheets/d/1sgTSN6Ml90B5kN61NqyM64-Dc4no_4Bg3fi8ivOwGYA/edit?gid=1000133713#gid=1000133713"]
+

@@ -1,0 +1,21 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장주도그룹\디지털마케팅2팀\마케팅2 / hylim / [343629] 기존 광고주 업세일 제안 및 적용 _ 사전 정의된 광고 목표 확인 (ROAS, CPC, Click 등) / 2025-10-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-022-web.hanpda.com/workflow/crbhIFf3Dt4EBW3I"
+- "https://n8n-mi-022-web.hanpda.com/workflow/wRObUq7C9WDTzgIX"
+- "https://n8n-mi-022-web.hanpda.com/workflow/ncrDidLdphCZIStY"
+- "https://n8n-mi-022-web.hanpda.com/workflow/kiu2j0pJyjE5RKEN"
+- "https://n8n-mi-022-web.hanpda.com/workflow/ukX7Kthu9gfIt1dW"]
+
+### WIKI
+- ["https://n8n-mi-022-web.hanpda.com/workflow/crbhIFf3Dt4EBW3I"
+- "https://n8n-mi-022-web.hanpda.com/workflow/wRObUq7C9WDTzgIX"
+- "https://n8n-mi-022-web.hanpda.com/workflow/kiu2j0pJyjE5RKEN"
+- "https://n8n-mi-022-web.hanpda.com/workflow/ukX7Kthu9gfIt1dW"
+- "https://docs.google.com/spreadsheets/d/1-w2BYvI9-KXagEJP0rSW9nLb-QvzsJBJk1JFh-vqGgQ"
+- "https://docs.google.com/spreadsheets/d/1I9VlotR5veLvpS4-syaQzdk3h2ALNpPmG-44Qnil24o"
+- "https://docs.google.com/spreadsheets/d/1CY0qlgiwPc9TqOHCaiwHTlgf5Z3h3HrElduK-NtH3yE"
+- "https://app.slack.com/client/E04MHC6QQGL/D06UQ007E83"]
+

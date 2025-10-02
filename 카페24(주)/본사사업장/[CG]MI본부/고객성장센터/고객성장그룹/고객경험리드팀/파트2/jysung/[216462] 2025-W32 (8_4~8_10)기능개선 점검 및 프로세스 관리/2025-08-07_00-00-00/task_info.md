@@ -1,0 +1,13 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\고객성장센터\고객성장그룹\고객경험리드팀\파트2 / jysung / [216462] 2025-W32 (8_4~8_10)기능개선 점검 및 프로세스 관리 / 2025-08-07_00-00-00
+
+### BPMN
+- ["https://n8n-mi-002-web.hanpda.com/workflow/sGx3SqNMW0XV0klR"]
+
+### JIRA
+- ["https://jira.simplexi.com/browse/ECMSECHOSTING-6109"]
+
+### LINK
+- ["https://cafe24corp.slack.com/archives/C08TAUANZ88/p1754529563657509?thread_ts=1750644753.410879&cid=C08TAUANZ88"]
+

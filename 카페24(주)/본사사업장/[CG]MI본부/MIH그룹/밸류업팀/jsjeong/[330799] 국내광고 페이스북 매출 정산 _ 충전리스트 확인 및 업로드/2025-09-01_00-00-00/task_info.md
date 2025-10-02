@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MIH그룹\밸류업팀 / jsjeong / [330799] 국내광고 페이스북 매출 정산 _ 충전리스트 확인 및 업로드 / 2025-09-01_00-00-00
+
+### WIKI
+- ["https://wiki.simplexi.com/pages/viewpage.action?pageId=2752475443"]
+

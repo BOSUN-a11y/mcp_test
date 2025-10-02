@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MIH그룹\CVC팀\2파트 / mjcho04 / [272497] 광고 동영상 콘텐츠 기획 _ 광고 영상 컨셉 도출 / 2025-08-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-053-web.hanpda.com/workflow/wroaZ44kyFCCTWeN"]
+
+### WIKI
+- ["https://wiki.simplexi.com/pages/viewpage.action?pageId=2735652710"]
+

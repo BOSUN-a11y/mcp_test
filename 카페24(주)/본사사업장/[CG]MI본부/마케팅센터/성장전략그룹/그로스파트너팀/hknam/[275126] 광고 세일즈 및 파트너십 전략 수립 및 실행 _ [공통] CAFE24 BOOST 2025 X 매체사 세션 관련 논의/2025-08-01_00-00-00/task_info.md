@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장전략그룹\그로스파트너팀 / hknam / [275126] 광고 세일즈 및 파트너십 전략 수립 및 실행 _ [공통] CAFE24 BOOST 2025 X 매체사 세션 관련 논의 / 2025-08-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-037-web.hanpda.com/workflow/vuWYEUXuYnm3dLBn"]
+
+### WIKI
+- ["https://n8n-mi-037-web.hanpda.com/workflow/vuWYEUXuYnm3dLBn\nhttps://impartial-bubbler-a95.notion.site/Cafe24-BOOST-2025-233da2109377809b8b87d9bea1d3f5b1"]
+

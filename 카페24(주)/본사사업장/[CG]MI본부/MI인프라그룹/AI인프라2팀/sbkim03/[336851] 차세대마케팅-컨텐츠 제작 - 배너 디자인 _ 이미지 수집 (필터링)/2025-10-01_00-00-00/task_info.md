@@ -1,0 +1,8 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MI인프라그룹\AI인프라2팀 / sbkim03 / [336851] 차세대마케팅-컨텐츠 제작 - 배너 디자인 _ 이미지 수집 (필터링) / 2025-10-01_00-00-00
+
+### WIKI
+- ["https://n8n-mi-083-web.hanpda.com/workflow/UXT7JbBdSmQhsB4B"
+- "https://gseo-auto-common.cafe24.com/adminer.php?server=auto-common-db-master-101.hanpda.com&username=sbkim03&db=c_mi_media_pipeline&table=automation_ad_image_analysis_materials"]
+

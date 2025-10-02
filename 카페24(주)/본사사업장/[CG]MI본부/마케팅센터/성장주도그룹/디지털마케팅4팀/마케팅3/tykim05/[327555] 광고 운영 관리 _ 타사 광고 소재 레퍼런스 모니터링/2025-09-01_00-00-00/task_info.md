@@ -1,0 +1,15 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장주도그룹\디지털마케팅4팀\마케팅3 / tykim05 / [327555] 광고 운영 관리 _ 타사 광고 소재 레퍼런스 모니터링 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-015-web.hanpda.com/workflow/PzrKRAXuH5y28C2c"]
+
+### JIRA
+- ["https://jira.simplexi.com/browse/CREATE-63984?filter=-2"
+- "https://jira.simplexi.com/browse/CREATE-63373?filter=-2"]
+
+### WIKI
+- ["https://n8n-mi-015-web.hanpda.com/workflow/PzrKRAXuH5y28C2c"
+- "https://docs.google.com/document/d/1xtCV72BcQUqIaxaKS5IjFGwDMAN0NOZYJNUJGx6LRCU/edit?tab=t.0"]
+

@@ -1,0 +1,8 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\Y쇼핑센터팀\전략2 / mypark / [322140] 유튜브 쇼핑 성과 지표 관리 _ 업체별 월별 목표 매출 및 실적 수집 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-062-web.hanpda.com/workflow/MwW0ajB8fEX9w5Fv"
+- "https://n8n-mi-062-web.hanpda.com/workflow/F8wJz6hLrF1R8kfF"]
+

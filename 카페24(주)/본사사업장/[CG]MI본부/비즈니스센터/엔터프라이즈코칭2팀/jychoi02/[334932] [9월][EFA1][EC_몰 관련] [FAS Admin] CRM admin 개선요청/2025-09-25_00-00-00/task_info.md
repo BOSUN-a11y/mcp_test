@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\비즈니스센터\엔터프라이즈코칭2팀 / jychoi02 / [334932] [9월][EFA1][EC_몰 관련] [FAS Admin] CRM admin 개선요청 / 2025-09-25_00-00-00
+
+### JIRA
+- ["https://jira.simplexi.com/browse/FULLAUTO-4968"]
+

@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\고객성장센터\고객성장그룹\고객경험리드팀\파트1 / hrchoi03 / [323172] 신규 고객 시스템 도입 _ 채널톡, 해피톡, 젠데스크 등 _ 계약,결제관련 및 외_내부소통 _ 프로세스 및 시뮬레이션 진행 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-002-web.hanpda.com/workflow/Pwo4CnCKvVlZLmeq"]
+
+### WIKI
+- ["https://jira.simplexi.com/browse/LEGAL-2310"]
+

@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MIH그룹\CVC팀\3파트 / yachoi / [338675] 광고 동영상 콘텐츠 기획 _ 나레이션 스크립트 및 메인 카피 도출 및 작성 / 2025-10-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-053-web.hanpda.com/workflow/OY6DmTFk9mkF43xW"]
+
+### WIKI
+- ["https://wiki.simplexi.com/pages/viewpage.action?pageId=2790313553"]
+

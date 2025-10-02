@@ -1,0 +1,14 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장주도그룹\디지털마케팅3팀\마케팅4 / hjjo / [344044] 광고 운영 관리 _ 광고 상품 선정 / 2025-10-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-017-web.hanpda.com/workflow/0diz6nFBPlzBlewB"
+- "https://n8n-mi-017-web.hanpda.com/workflow/qJ789xZU3gQwuOPy"
+- "https://n8n-mi-017-web.hanpda.com/workflow/FYr2JFxpUqR7qjOO"]
+
+### WIKI
+- ["https://cafe24corp.slack.com/archives/C07KX7S1FSR/p1759208689913279https://cafe24corp.slack.com/archives/C07KX7S1FSR/p1759208689913279"
+- "https://cafe24corp.slack.com/archives/C0855FE71S5/p1759205522940659"
+- "https://cafe24corp.slack.com/archives/C07KX7S1FSR/p1756861228725549"]
+

@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\B2B협력그룹\세일즈성장혁신팀 / rhkwon02 / [349333] 자동화 제작 _ ERP 결제내역 작성 자동화 기획 및 제작 / 2025-10-01_00-00-00
+
+### WIKI
+- ["https://ms-gitlab-service-002.hanpda.com/rhkwon02/erp_auto/-/tree/main"]
+

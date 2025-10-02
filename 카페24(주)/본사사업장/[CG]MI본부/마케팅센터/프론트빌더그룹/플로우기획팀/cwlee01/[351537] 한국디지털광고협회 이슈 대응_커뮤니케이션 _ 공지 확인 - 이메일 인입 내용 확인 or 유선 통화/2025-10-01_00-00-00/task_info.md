@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\프론트빌더그룹\플로우기획팀 / cwlee01 / [351537] 한국디지털광고협회 이슈 대응_커뮤니케이션 _ 공지 확인 - 이메일 인입 내용 확인 or 유선 통화 / 2025-10-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-038-web.hanpda.com/workflow/TMuvmFw5383DbHJs"]
+
+### WIKI
+- ["https://cafe24corp.slack.com/archives/D0758S70U8G/p1758095263340779"]
+

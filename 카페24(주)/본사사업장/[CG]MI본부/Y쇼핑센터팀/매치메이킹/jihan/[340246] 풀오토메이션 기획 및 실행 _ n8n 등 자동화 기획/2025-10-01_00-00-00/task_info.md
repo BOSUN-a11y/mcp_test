@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\Y쇼핑센터팀\매치메이킹 / jihan / [340246] 풀오토메이션 기획 및 실행 _ n8n 등 자동화 기획 / 2025-10-01_00-00-00
+
+### WIKI
+- ["https://n8n-mi-060-web.hanpda.com/home/workflows"]
+

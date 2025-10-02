@@ -1,0 +1,13 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장주도그룹\디지털마케팅4팀\마케팅1 / ymkim / [326957] 광고 계정 세팅 및 자산관리 _ 매체별 픽셀_스크립트_카탈로그 등 연결(신규_이관) / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://docs.google.com/spreadsheets/d/1FFhLbnwVtKm7GlFkMvEPvOOf3ep9joBrfuqaUz6co94/edit?gid=1023016451#gid=1023016451"]
+
+### JIRA
+- ["https://docs.google.com/spreadsheets/d/1FFhLbnwVtKm7GlFkMvEPvOOf3ep9joBrfuqaUz6co94/edit?gid=2096811152#gid=2096811152"]
+
+### WIKI
+- ["https://docs.google.com/spreadsheets/d/1FFhLbnwVtKm7GlFkMvEPvOOf3ep9joBrfuqaUz6co94/edit?gid=0#gid=0"]
+

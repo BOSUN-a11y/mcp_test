@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장주도그룹\디지털마케팅7팀 / syan / [330108] 조직 리소스 관리 _ 인원별 업무분장 등록 및 협의 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-010-web.hanpda.com/workflow/2yS8JY1mwIyeIRtG"]
+
+### WIKI
+- ["https://docs.google.com/spreadsheets/d/1j6jHelwPwV8sXkWc_Nj_bGJYam1SEDZ84hRqIGOnxy4/edit?gid=676750903#gid=676750903"]
+

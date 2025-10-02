@@ -1,0 +1,13 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장주도그룹\디지털마케팅4팀\마케팅1 / ymkim / [278841] 기존 광고주 업세일 제안 및 적용 _ 업세일 제안 및 예산 협의(소통,신규 매체 제안 포함) / 2025-08-01_00-00-00
+
+### BPMN
+- ["https://docs.google.com/spreadsheets/d/1FFhLbnwVtKm7GlFkMvEPvOOf3ep9joBrfuqaUz6co94/edit?gid=1023016451#gid=1023016451"]
+
+### JIRA
+- ["https://docs.google.com/spreadsheets/d/1FFhLbnwVtKm7GlFkMvEPvOOf3ep9joBrfuqaUz6co94/edit?gid=2096811152#gid=2096811152"]
+
+### WIKI
+- ["https://docs.google.com/spreadsheets/d/1FFhLbnwVtKm7GlFkMvEPvOOf3ep9joBrfuqaUz6co94/edit?gid=0#gid=0"]
+

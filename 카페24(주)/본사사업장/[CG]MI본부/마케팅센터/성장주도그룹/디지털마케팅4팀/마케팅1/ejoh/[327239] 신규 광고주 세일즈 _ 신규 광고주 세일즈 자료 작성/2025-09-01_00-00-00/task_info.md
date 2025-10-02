@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장주도그룹\디지털마케팅4팀\마케팅1 / ejoh / [327239] 신규 광고주 세일즈 _ 신규 광고주 세일즈 자료 작성 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-006-web.hanpda.com/workflow/tDfzBqBt54KwYkSa"]
+
+### WIKI
+- ["https://cafe24corp.slack.com/archives/C097503R2MU/p1758507193863399"]
+

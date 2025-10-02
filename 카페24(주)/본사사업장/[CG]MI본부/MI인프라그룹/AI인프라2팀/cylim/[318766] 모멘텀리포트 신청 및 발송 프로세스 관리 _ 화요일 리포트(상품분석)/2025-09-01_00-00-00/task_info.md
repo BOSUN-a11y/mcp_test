@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MI인프라그룹\AI인프라2팀 / cylim / [318766] 모멘텀리포트 신청 및 발송 프로세스 관리 _ 화요일 리포트(상품분석) / 2025-09-01_00-00-00
+
+### WIKI
+- ["https://n8n-mi-047-stage-web.hanpda.com/workflow/kk8kyrx3FULPzk2w"]
+

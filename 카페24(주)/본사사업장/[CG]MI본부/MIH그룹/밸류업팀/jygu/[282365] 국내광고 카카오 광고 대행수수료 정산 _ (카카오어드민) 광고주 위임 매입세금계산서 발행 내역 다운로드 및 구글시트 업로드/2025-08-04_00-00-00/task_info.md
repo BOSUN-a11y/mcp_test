@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MIH그룹\밸류업팀 / jygu / [282365] 국내광고 카카오 광고 대행수수료 정산 _ (카카오어드민) 광고주 위임 매입세금계산서 발행 내역 다운로드 및 구글시트 업로드 / 2025-08-04_00-00-00
+
+### BPMN
+- ["https://n8n-mi-016-web.hanpda.com/workflow/98MdplXsuYi25Ohl"]
+
+### WIKI
+- ["https://wiki.simplexi.com/pages/viewpage.action?pageId=2729555332"]
+

@@ -1,0 +1,13 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\프론트빌더그룹\플로우기획팀 / sjlee15 / [284473] 전사풀오토 마케팅 _ 커뮤니티 바이럴 자동화 기획 _ 크롤링 자동화 제작 _ 아이보스_구글_모비인사이드 / 2025-08-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-006-web.hanpda.com/workflow/TJbC6lZT3TIwt9Je"
+- "https://n8n-mi-006-web.hanpda.com/workflow/WagzNjxBBfg761hj"
+- "https://n8n-mi-006-web.hanpda.com/workflow/GqzphMak5TB4LXhf"
+- "https://n8n-mi-006-web.hanpda.com/workflow/fEbSIr0DFRnWbClS"]
+
+### WIKI
+- ["https://wiki.simplexi.com/pages/viewpage.action?pageId=2781447801"]
+

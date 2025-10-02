@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\고객성장센터\시너지그룹\PnP팀 / sachoi / [273715] SIIC CS대행 매출보고서 대시보드 _ 대시보드 기획 및 관제 / 2025-08-01_00-00-00
+
+### WIKI
+- ["http://211.63.40.24:8888/dashboard/client-response-status"]
+

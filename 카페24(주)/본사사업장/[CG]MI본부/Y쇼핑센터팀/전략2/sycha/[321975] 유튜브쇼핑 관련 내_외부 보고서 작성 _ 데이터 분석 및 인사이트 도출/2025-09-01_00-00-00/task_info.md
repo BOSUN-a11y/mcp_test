@@ -1,0 +1,14 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\Y쇼핑센터팀\전략2 / sycha / [321975] 유튜브쇼핑 관련 내_외부 보고서 작성 _ 데이터 분석 및 인사이트 도출 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-045-web.hanpda.com/workflow/Re5SgTseLbFkm0Aj"
+- "https://n8n-mi-045-web.hanpda.com/workflow/4fuIiSZOCbAIYptJ"
+- "https://n8n-mi-045-web.hanpda.com/workflow/CCLPYaPNiv6p2ySk"
+- "https://n8n-mi-045-web.hanpda.com/workflow/28QtUORnFfQmpxZj"
+- "https://n8n-mi-045-web.hanpda.com/workflow/Dd1P2zn62a2v8Y8c"]
+
+### WIKI
+- ["https://voluble-scone-e1775b.netlify.app/"]
+

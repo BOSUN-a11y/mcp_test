@@ -1,0 +1,15 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장주도그룹\디지털마케팅4팀\마케팅1 / shkim07 / [279275] 본부 외 소통 _ 본부 내 협업 요청 JIRA 등 관리(상신,확인,종료) / 2025-08-01_00-00-00
+
+### JIRA
+- ["https://jira.simplexi.com/issues/?filter=119020"
+- "https://jira.simplexi.com/issues/?filter=109914"
+- "https://jira.simplexi.com/issues/?filter=105005"]
+
+### WIKI
+- ["https://docs.google.com/presentation/d/1qhOxvHVzxZAwRgSTGEpuAu2czOF9olI4P79J2gN0j-Q/edit?slide=id.g36a718e907e_0_0#slide=id.g36a718e907e_0_0"
+- "https://vcat.ai/result/image?folder=eyJzaGFyZVR5cGUiOiJQUkkiLCJmb2xkZXJJZCI6Mjg1MDl9"
+- "https://vcat.ai/result?folder=eyJzaGFyZVR5cGUiOiJQUkkiLCJmb2xkZXJJZCI6NDQxMn0"
+- "https://cafe24corp.slack.com/archives/C07H010UN9M/p1751847842555029"]
+

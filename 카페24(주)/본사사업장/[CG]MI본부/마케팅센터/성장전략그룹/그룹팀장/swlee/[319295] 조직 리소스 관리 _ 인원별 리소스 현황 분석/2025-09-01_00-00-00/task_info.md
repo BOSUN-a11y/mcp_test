@@ -1,0 +1,13 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장전략그룹\그룹팀장 / swlee / [319295] 조직 리소스 관리 _ 인원별 리소스 현황 분석 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-022-web.hanpda.com/workflow/GvES81vAnjmaMWfN"]
+
+### JIRA
+- ["https://jira.simplexi.com/browse/LEGAL-7615"]
+
+### WIKI
+- ["https://wiki.simplexi.com/pages/viewpage.action?pageId=2579928946"]
+

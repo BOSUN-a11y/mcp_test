@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장주도그룹\디지털마케팅2팀\마케팅1 / sjkim1 / [325987] [프로젝트]재고 비즈니스_기획 _ AIM 데이터 분석 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-022-web.hanpda.com/workflow/new?projectId=IkoWVVE6saEZdjoC"]
+
+### WIKI
+- ["https://aim-admin.hanpda.com/"]
+

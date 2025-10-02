@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\프론트빌더그룹\플로우기획팀 / mjryu02 / [284354] MIS 제안서 요청 및 운영 관리 자동화 _ 당일 미수락제안서 요청 수집 _ 가공 _ 내용 분석 _ 구글 캘린더 일정 생성 _ 요청자_수락자 공유 _ 에러 자동 감지 / 2025-08-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-006-web.hanpda.com/workflow/DhjQ6WN7gLowoB9H"]
+
+### WIKI
+- ["https://n8n-mi-006-web.hanpda.com/workflow/DhjQ6WN7gLowoB9H"]
+

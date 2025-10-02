@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\창업센터\사업운영1 / hyshin / [284214] 가맹점 로열티 정산 및 채권 관리 _ 매월 10일 세금계산서 발행 / 2025-08-04_00-00-00
+
+### WIKI
+- ["https://cafe24.lightning.force.com/lightning/n/Royalty"]
+

@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MIH그룹\밸류업팀 / smlee06 / [282601] 일본지사 -_ 본사 송금에 대한 인보이스 날인 및 일본지사 공유 _ 결재완료시 날인 받아 스캔하기 / 2025-08-11_00-00-00
+
+### BPMN
+- ["없음(날인받는 행위)"]
+
+### WIKI
+- ["https://wiki.simplexi.com/pages/viewpage.action?pageId=2753079740"]
+

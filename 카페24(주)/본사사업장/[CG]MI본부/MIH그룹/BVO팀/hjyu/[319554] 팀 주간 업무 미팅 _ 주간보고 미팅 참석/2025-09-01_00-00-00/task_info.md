@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MIH그룹\BVO팀 / hjyu / [319554] 팀 주간 업무 미팅 _ 주간보고 미팅 참석 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-028-web.hanpda.com/workflow/ijQd14Aqk7KZ6eGy"]
+

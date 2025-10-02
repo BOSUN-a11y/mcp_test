@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MIH그룹\밸류업팀 / jhlee30 / [348378] 유튜브쇼핑 비용데이터 공유 _ 데이터 완료 공유 / 2025-10-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-016-web.hanpda.com/workflow/H3S8OcvlYc8U539a"]
+

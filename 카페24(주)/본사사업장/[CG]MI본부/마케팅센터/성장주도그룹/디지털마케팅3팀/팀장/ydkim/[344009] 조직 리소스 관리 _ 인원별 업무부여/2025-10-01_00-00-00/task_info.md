@@ -1,0 +1,12 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\성장주도그룹\디지털마케팅3팀\팀장 / ydkim / [344009] 조직 리소스 관리 _ 인원별 업무부여 / 2025-10-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-017-web.hanpda.com/workflow/CeZpgAheb09wGB5z"]
+
+### WIKI
+- ["https://docs.google.com/spreadsheets/d/1H8Kk0cNKxxZAm_X8dSqNz4QHo6p_E9_qhIV9BpiN1iQ/edit?gid=1979666893#gid=1979666893"
+- "https://docs.google.com/spreadsheets/d/1l1fj0gaQXrQIngQwksNsV2AMsMDopw4SKSTxCL8aYWc/edit?gid=676750903#gid=676750903"
+- "https://lookerstudio.google.com/u/0/reporting/47c0a37d-f976-423d-af1c-6e81faac536d/page/p_o8l2do31pd"]
+

@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\창업센터\사업운영1 / ywchoi02 / [333060] 가맹점어드민 _ 이지어드민 장애 대응 _ 이슈발생 확인 / 2025-09-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-014-web.hanpda.com/workflow/wOwoAQNdgkeJC4pa"]
+
+### WIKI
+- ["https://n8n-mi-014-web.hanpda.com/workflow/wOwoAQNdgkeJC4pa"]
+

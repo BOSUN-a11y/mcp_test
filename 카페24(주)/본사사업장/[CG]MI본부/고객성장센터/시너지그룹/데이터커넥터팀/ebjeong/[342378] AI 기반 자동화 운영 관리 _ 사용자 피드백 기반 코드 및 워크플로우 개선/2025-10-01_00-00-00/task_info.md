@@ -1,0 +1,11 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\고객성장센터\시너지그룹\데이터커넥터팀 / ebjeong / [342378] AI 기반 자동화 운영 관리 _ 사용자 피드백 기반 코드 및 워크플로우 개선 / 2025-10-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-052-web.hanpda.com/workflow/nfIhNHehrraufK7F"]
+
+### WIKI
+- ["https://wiki.simplexi.com/pages/viewpage.action?pageId=2784503420"
+- "https://cafe24.enterprise.slack.com/lists/T90JAEG3D/F09F05TBPHD"]
+

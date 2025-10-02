@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\프론트빌더그룹\BX전략팀 / hjhan02 / [320245] AI 활용 업무 자동화 적용 사례 발굴 및 기획 _ AI 자동화 사례 조사 / 2025-09-01_00-00-00
+
+### WIKI
+- ["https://wiki.simplexi.com/pages/viewpage.action?pageId=2777027196"]
+

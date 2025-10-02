@@ -1,0 +1,7 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\마케팅센터\프론트빌더그룹\플로우기획팀 / sjlee15 / [284415] 내부 미팅_회의_소통 _ 미팅 알림 / 2025-08-01_00-00-00
+
+### WIKI
+- ["https://calendar.google.com/calendar/u/0?cid=c2psZWUxNUBjYWZlMjRjb3JwLmNvbQ"]
+

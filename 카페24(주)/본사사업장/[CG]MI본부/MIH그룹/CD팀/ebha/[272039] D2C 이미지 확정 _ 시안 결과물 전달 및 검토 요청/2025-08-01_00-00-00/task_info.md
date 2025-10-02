@@ -1,0 +1,10 @@
+# Task Info
+
+**Path:** 카페24(주)\본사사업장\[CG]MI본부\MIH그룹\CD팀 / ebha / [272039] D2C 이미지 확정 _ 시안 결과물 전달 및 검토 요청 / 2025-08-01_00-00-00
+
+### BPMN
+- ["https://n8n-mi-027-web.hanpda.com/workflow/DEooJqRnhWTLszfy"]
+
+### WIKI
+- ["https://wiki.simplexi.com/pages/viewpage.action?pageId=2710976548"]
+
